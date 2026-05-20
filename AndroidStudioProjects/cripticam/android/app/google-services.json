@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "832227520024",
+    "project_id": "crypticcam-5f318",
+    "storage_bucket": "crypticcam-5f318.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832227520024:android:a28117c8bbee909bb9dd6d",
+        "android_client_info": {
+          "package_name": "com.example.cripticam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiQPDhMY5kSQOENm2w_Y312yMckZOdj94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
